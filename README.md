@@ -34,7 +34,7 @@ pyautogui
 1. Run the script:
 
 ```bash
-python auto_typer.py
+python bomber.py
 ```
 
 2. Enter the text you want to send:
